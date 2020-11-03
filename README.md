@@ -1,7 +1,7 @@
 # The Problem With Air Pollution
 An interactive infographic on the effects of air pollution on our precious Earth. Feating tripping colors and broken interactions.
 
-## Struggling to Open This Bugger?
+### Struggling to Open This Bugger?
 Download the zip file and double click "index.html". Too easy right?  
 
 ### Isn't My Ugly Broken Website ~Charming?
