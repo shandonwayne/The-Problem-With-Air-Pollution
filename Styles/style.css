@@ -1,0 +1,573 @@
+body{
+    overflow-x: hidden;
+    width: 100.3%;
+}
+#intro{
+    height:1044.548px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,3d006a+100 */
+    background: #000000; /* Old browsers */
+    background: -moz-linear-gradient(top,  #000000 1%, #3d006a 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #000000 1%,#3d006a 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #000000 1%,#3d006a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#3d006a',GradientType=0 ); /* IE6-9 */
+    zindex:1;
+    overflow: hidden;
+}
+
+#gradientone{
+    height:54px;
+    background-color:#3a0b63;
+    opacity:.64;
+    position: relative;
+    z-index:80;
+    overflow: hidden;
+}
+
+#gradienttwo{
+    height:45px;
+    background-color:#3a0b63;
+    opacity:.35;
+    position: relative;
+    z-index:80;
+    overflow: hidden;
+}
+
+#gradientthree{
+    height:36px;
+    background-color:#3a0b63;
+    opacity:.15;
+    position: relative;
+    z-index:80;
+    overflow: hidden;
+}
+
+#gradientfour{
+    height:17px;
+    background-color:#3a0b63;
+    position: relative;
+    opacity:.06;
+    z-index:80;
+    overflow: hidden;
+}
+
+#pollutionbackground{
+    position:relative;
+    height:1602px;
+    background-color:#db5552;
+    z-index:1;
+    margin-top:-152px;
+    overflow: hidden;
+}
+
+#rainbackground{
+    height:576px;
+    background-color:#091e47;
+    z-index:99;
+    overflow: hidden;
+}
+
+#plantbackground{
+    height:1080px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#81237b+1,f15a24+100 */
+    background: #81237b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #81237b 1%, #f15a24 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #81237b 1%,#f15a24 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #81237b 1%,#f15a24 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#81237b', endColorstr='#f15a24',GradientType=0 ); /* IE6-9 */
+    z-index:99;
+    overflow: hidden;
+}
+
+#fishbackground{
+    height:1080px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3fffc1+1,003437+100 */
+    background: #3fffc1; /* Old browsers */
+    background: -moz-linear-gradient(top,  #3fffc1 1%, #003437 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #3fffc1 1%,#003437 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #3fffc1 1%,#003437 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3fffc1', endColorstr='#003437',GradientType=0 ); /* IE6-9 */
+    overflow: hidden;
+    z-index: 
+}
+
+#cupbackground{
+    position:relative;
+    height:868px;
+    background-color:#f49e06;
+    overflow:hidden;
+}
+
+
+#cta{
+    height:954.8px;
+    background-color:#ea4272;
+
+}
+
+#endbackground{
+    position: relative;
+    overflow: hidden;
+    height:1800px;
+     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,3d006a+100 */
+    background: #000000; /* Old browsers */
+    background: -moz-linear-gradient(top,  #000000 1%, #3d006a 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #000000 1%,#3d006a 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #000000 1%,#3d006a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#3d006a',GradientType=0 ); /* IE6-9 */
+    
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------- */
+
+#action{
+position: absolute;
+margin-top:130px;
+opacity: 0;
+
+}
+
+.logo{
+    position:absolute;
+    z-index:99;
+    left:50%;
+    margin-left:-250px;
+    margin-top: 100px;
+}
+
+
+.star1,.star2,.star3,.star4{
+    width: 100%;
+    height: 100%;
+	left: 50%;
+	margin-left:-722px;
+}
+
+.star1{
+    position:absolute;
+    background:transparent url(../Images/stars/star1.png) no-repeat 0 0 ;
+    
+
+}
+
+.star2{
+    position: absolute;
+    background:transparent url(../Images/stars/star2.png) no-repeat 0 0 ;
+
+}
+
+.star3{
+    position: absolute;
+    background:transparent url(../Images/stars/star3.png) no-repeat 0 0 ;
+
+}
+
+.star4{
+    position: absolute;
+    background:transparent url(../Images/stars/star4.png) no-repeat 0 0 ;
+    display: none;
+
+}
+
+.skyline{
+    position: absolute;
+    margin-top:1045px;
+    left:80%;
+    margin-left:-1509px;
+}
+
+.smog1{
+    position: absolute;
+    z-index:90;
+    margin-top:110px;
+    margin-left:-1200px;
+    left:50%;
+}
+
+.smog2{
+    position: absolute;
+    z-index:90;
+    margin-top:110px;
+    left: 50%;
+    
+}
+
+.factory{
+    position: absolute;
+    margin-top:870px;
+    z-index: 99;
+    left:50%;
+}
+
+.video{
+    position:absolute;
+    margin-top:200px;
+    left:50%;
+    margin-left:-480px;
+    z-index:1;
+}
+
+.frontsw{
+    position: absolute;
+    margin-top: 1186px;
+	left: 50%;
+	margin-left: -722px;
+}
+
+.backsw{
+    position: absolute;
+    margin-top: 1186px;
+    z-index:80;
+	left: 50%;
+	margin-left: -722px;
+}
+
+.lilcloud{
+    position: absolute;
+    left: 50%;
+    margin-top:750px;
+    margin-left:250px;
+}
+
+.lillercloud{
+    position: absolute;
+    left:50%;
+    margin-top:850px;
+    margin-left:350px;
+}
+
+.wave{
+    position: absolute;
+    margin-top: 980px;
+    z-index: 2;
+	left:50%;
+	margin-left:-755.5px;
+}
+
+.wheat{
+    position: absolute;
+    margin-top: 50px;
+	left: 50%;
+	margin-left:-722px;
+}
+
+.backfish{
+    position: absolute;
+    margin-top: 200px;
+}
+
+.fish{
+    position: absolute;
+    margin-top: 620px;
+    z-index: 70;
+} 
+
+.frontfish{
+    position: absolute;
+	width:800px;
+	z-index: 999;
+}
+
+.hand{
+    position: absolute;
+    margin-top: 90px;
+    left: 50%;
+    margin-left:10px;
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+    }
+
+    .hand:hover{
+    -webkit-transform: rotate(50deg);
+    -moz-transform: rotate(50deg);
+    -o-transform: rotate(50deg);
+    -ms-transform: rotate(50deg);
+    transform:rotate(50deg);
+				transform-origin: top right;
+}
+
+
+
+.car{
+    position: absolute;
+    margin-top:185px;
+    margin-left:120px;
+    left:50%;
+}
+
+.teeth{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -145.5px;
+    left:50%;
+}
+
+.light{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -320px;
+    left:50%;
+}
+
+.sb{
+    position: absolute;
+    margin-top:299px;
+    left: 50%;
+    margin-left:-490.5px;
+    z-index: 100;
+    -moz-transition: opacity .75s ease-in-out;
+    -webkit-transition: opacity .75s ease-in-out; 
+    -o-transition: 1s ease-in-out;
+	transition: opacity .75s ease-in-out;
+}
+    
+.sb:hover{
+    opacity:0;
+    -moz-transition: opacity .75s ease-in-out;
+    -webkit-transition: opacity .75s ease-in-out; 
+    -o-transition: 1s ease-in-out;
+	transition: opacity .75s ease-in-out;
+	
+}
+
+.sbuh{
+    position: absolute;
+    margin-top:300px;
+    left: 50%;
+    margin-left:-490.5px;
+    z-index:99;
+ }
+
+.endstars{
+    position: absolute;
+    margin-top: 50px;
+    z-index:1;
+	left: 50%;
+	margin-left:-854px;
+}
+
+.endtext{
+    position:absolute;
+    margin-top:1060px;
+    left:50%;
+    margin-left:-426px;
+    z-index:99;
+}
+
+.endtext2{
+    position:absolute;
+    margin-top:1250px;
+    left:50%;
+    margin-left:-492.5px;
+    z-index:99;
+}
+
+.footer{
+    position: absolute;
+    margin-top:1550px;
+    left: 50%;
+    margin-left:-900px;
+    z-index: 99;
+}
+
+.epa{
+    position: absolute;
+    margin-top:680px;
+    left:50%;
+    margin-left:-200.5;
+    }
+
+    .epa:hover{
+    opacity:0;
+}
+
+.nasa{
+    position: absolute;
+    margin-top:680px;
+    left:50%;
+    margin-left:-100px;
+    }
+
+    .nasa:hover{
+    opacity:0;
+}
+
+.threefif{
+    position: absolute;
+    margin-top:695px;
+    left:50%;
+    margin-left:85px;
+    }
+
+    .threefif:hover{
+    opacity:0;
+}
+
+.CCAP{
+    position: absolute;
+    margin-top:680px;
+    left:50%;
+    margin-left:-200px;
+    }
+
+    .CCAP:hover{
+    opacity:0;
+}
+
+.ctatext{
+    position: absolute;
+    margin-top:415px;
+    left:50%;
+    margin-left:-473.5px;
+    
+}
+
+.cuptext{
+    position:absolute;
+    margin-top:200px;
+    left:50%;
+    margin-left:-550px;
+
+}
+
+
+.expand img{
+    position:absolute;
+	max-width: 100%;
+	height: auto;
+	display:block;
+    margin-top:170px;
+    left:50%;
+    margin-left:60px;
+    z-index:99;
+}
+
+.expand2 img{
+    position:absolute;
+	max-width: 100%;
+	height: auto;
+	display:block;
+    margin-top:170px;
+    left:50%;
+    margin-left:380px;
+    z-index:99;
+}
+
+.expand3 img{
+    position:absolute;
+	max-width: 100%;
+	height: auto;
+	display:block;
+    margin-top:100px;
+    left:50%;
+    margin-left:220px;
+    z-index:99;
+}
+
+.box{
+    position: absolute;
+    z-index:999;
+    height: 100px; 
+    width: 100px;
+    transform: matrix(2, 0, 0, 2, 0, 0);
+	left: 50%;
+	margin-left: -750px
+}
+
+.expandstw img{
+    position:absolute;
+	max-width: 100%;
+	height: auto;
+	display:block;
+    margin-top:170px;
+    z-index:99;
+}
+
+#raindrop {
+    position: absolute;
+	margin-top: -870px;
+	z-index: 999;
+	left: 50%;
+	margin-left:-146.5px;
+}
+
+.planttext{
+    position: absolute;
+    margin-top:100px;
+    left: 50%;
+    margin-left:100px;
+}
+
+.plantclouds{
+    position: absolute;
+    margin-top:50px;
+    opacity:.2;
+    left: 50%;
+    margin-left:-1000px;
+    z-index: 1;
+}
+
+.factext{
+    position: absolute;
+    margin-top:500px;
+    left: 50%;
+    margin-left:-239.5px;
+    z-index: 999;
+}
+
+.fishtext{
+    position: absolute;
+    margin-top: 100px;
+    left: 50%;
+    margin-left:100px;
+}
+
+.reddit{
+	position: absolute;
+	margin-top:820px;
+	left: 50%;
+	margin-left:-200px;
+	z-index: 999;
+	}
+
+	.reddit:hover{
+	opacity:0;
+	}
+
+
+.tumblr{
+	position: absolute;
+	margin-top:820px;
+	left: 50%;
+	margin-left:100px;
+	z-index: 999;
+	}
+
+	.tumblr:hover{
+	opacity:0;
+	}
+
+
+.facebook{
+	position: absolute;
+	margin-top:820px;
+	left: 50%;
+	margin-left:-48px;
+	z-index: 999;
+}
+
+.facebook:hover{
+	opacity:0;
+}
+
+.button{
+	position: absolute;
+	left:50%;
+	margin-top: 410px;
+	margin-left:-10.5px;
+	z-index: 999;
+}
+
+.button:hover{
+	opacity:0;
+	}
